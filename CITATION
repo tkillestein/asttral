@@ -1,0 +1,10 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Killestein"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-0440-9597"
+title: "asttral"
+version: 0.0.1
+date-released: 2023-01-01
+url: "https://github.com/tkillestein/asttral"
